@@ -5,8 +5,7 @@
 #what are arguments
 
 #methods are boxes that encapsulate some type of logic
-use place holders
-are variables that return data
+
 
 
 
