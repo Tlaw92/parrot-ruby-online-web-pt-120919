@@ -15,6 +15,7 @@ def example(name)
   puts name
 end
 
-example
+example(student_name)
+
 
 
