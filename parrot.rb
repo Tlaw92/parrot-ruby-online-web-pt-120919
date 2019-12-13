@@ -6,16 +6,6 @@
 
 #methods are boxes that encapsulate some type of logic
 
-student_name = "Ben"
-student_name = "Bart"
-student_name = "Beth"
-
-
-def example(name)
-  puts name
-end
-
-example(student_name)
 
 
 
