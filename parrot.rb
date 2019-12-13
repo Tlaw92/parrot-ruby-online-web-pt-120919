@@ -6,8 +6,9 @@
 
 #methods are boxes that encapsulate some type of logic
 
-def parrot 
-  puts "Squawk!"
+def parrot(phrase = "Squawk!") 
+  puts "phrase"
+  return phrase
 end
 
 
