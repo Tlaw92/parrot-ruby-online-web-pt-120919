@@ -7,7 +7,7 @@
 #methods are boxes that encapsulate some type of logic
 
 def parrot 
-  
+  puts ("Squawk")
 end
 
 
