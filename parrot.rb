@@ -5,19 +5,15 @@
 #what are arguments
 
 #methods are boxes that encapsulate some type of logic
+use place holders
+are variables that return data
 
 
-def example
-  name = "Travis"
-end
 
-def example_statement
+def example(name)
   puts name
 end
 
-example
-example_statement
 
 
 
-parrot.rb:15:in `example_statement': undefined local variable or method `name' for main:Object (NameError)
