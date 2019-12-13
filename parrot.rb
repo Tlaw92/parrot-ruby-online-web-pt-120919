@@ -15,6 +15,6 @@ def example(name)
   puts name
 end
 
-example("Ben")
+example
 
 
